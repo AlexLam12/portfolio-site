@@ -23,17 +23,15 @@ const About = () => {
 
         <div className='about__content'>
           <div className="about__cards">
-            <article className="divabout__card">
+            <article className="about__card">
               <FaAward className="about__icon"/>
               <h5>
                 Experience
               </h5>
               <small>Nashville Software School Grad</small>
             </article>
-          </div>
-
-          <div className="about__cards">
-            <article className="divabout__card">
+          
+            <article className="about__card">
               <VscFolderLibrary className="about__icon"/>
               <h5>
                 Projects
@@ -41,8 +39,9 @@ const About = () => {
               <small>40+</small>
             </article>
           </div>
+          
           <p>
-
+            Paragraph
           </p>
           <a href= "#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
