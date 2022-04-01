@@ -41,7 +41,7 @@ const About = () => {
           </div>
           
           <p>
-            Paragraph
+          I am a natural problem solver who love to create anything. From aircraft mechanic to software developer, the similarities are more than you would expect from troubleshooting to the attention to detailed required. Software development is something that I find very exciting. My lifetime goal is to continue learning and take my skills to the next level.
           </p>
           <a href= "#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
