@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio-site/static/css/main.235b562f.css",
+    "main.js": "/portfolio-site/static/js/main.45244fce.js",
+    "static/media/ME.png": "/portfolio-site/static/media/ME.53e71aefba3c2f24c63f.png",
+    "static/media/pitchmeeting.png": "/portfolio-site/static/media/pitchmeeting.8f9999572688805693d7.png",
+    "static/media/me-about.jpg": "/portfolio-site/static/media/me-about.7908100a4e6c7fa1880b.jpg",
+    "static/media/Resume.pdf": "/portfolio-site/static/media/Resume.39a7df4fa28c51dfda17.pdf",
+    "static/media/CalculatorApp.png": "/portfolio-site/static/media/CalculatorApp.f8a13c0ba182c116d768.png",
+    "static/media/GameSync.png": "/portfolio-site/static/media/GameSync.c2b0ecd24e537c8088b1.png",
+    "index.html": "/portfolio-site/index.html",
+    "main.235b562f.css.map": "/portfolio-site/static/css/main.235b562f.css.map",
+    "main.45244fce.js.map": "/portfolio-site/static/js/main.45244fce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.235b562f.css",
+    "static/js/main.45244fce.js"
+  ]
+}
