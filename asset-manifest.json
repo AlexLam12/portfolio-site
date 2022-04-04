@@ -1,19 +1,19 @@
 {
-  "files": {
-    "main.css": "/portfolio-site/static/css/main.235b562f.css",
-    "main.js": "/portfolio-site/static/js/main.45244fce.js",
-    "static/media/ME.png": "/portfolio-site/static/media/ME.53e71aefba3c2f24c63f.png",
-    "static/media/pitchmeeting.png": "/portfolio-site/static/media/pitchmeeting.8f9999572688805693d7.png",
-    "static/media/me-about.jpg": "/portfolio-site/static/media/me-about.7908100a4e6c7fa1880b.jpg",
-    "static/media/Resume.pdf": "/portfolio-site/static/media/Resume.39a7df4fa28c51dfda17.pdf",
-    "static/media/CalculatorApp.png": "/portfolio-site/static/media/CalculatorApp.f8a13c0ba182c116d768.png",
-    "static/media/GameSync.png": "/portfolio-site/static/media/GameSync.c2b0ecd24e537c8088b1.png",
-    "index.html": "/portfolio-site/index.html",
-    "main.235b562f.css.map": "/portfolio-site/static/css/main.235b562f.css.map",
-    "main.45244fce.js.map": "/portfolio-site/static/js/main.45244fce.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.235b562f.css",
-    "static/js/main.45244fce.js"
-  ]
+  "main.css": "/portfolio-site/static/css/main.132a02ff.chunk.css",
+  "main.js": "/portfolio-site/static/js/main.573de898.chunk.js",
+  "main.js.map": "/portfolio-site/static/js/main.573de898.chunk.js.map",
+  "static/js/1.594ac205.chunk.js": "/portfolio-site/static/js/1.594ac205.chunk.js",
+  "static/js/1.594ac205.chunk.js.map": "/portfolio-site/static/js/1.594ac205.chunk.js.map",
+  "runtime~main.js": "/portfolio-site/static/js/runtime~main.26e5d437.js",
+  "runtime~main.js.map": "/portfolio-site/static/js/runtime~main.26e5d437.js.map",
+  "static/media/Resume.pdf": "/portfolio-site/static/media/Resume.37f1b009.pdf",
+  "static/media/ME.png": "/portfolio-site/static/media/ME.291e2a60.png",
+  "static/media/me-about.jpg": "/portfolio-site/static/media/me-about.38d8d334.jpg",
+  "static/media/pitchmeeting.png": "/portfolio-site/static/media/pitchmeeting.0bd52834.png",
+  "static/media/GameSync.png": "/portfolio-site/static/media/GameSync.a15442a9.png",
+  "static/media/CalculatorApp.png": "/portfolio-site/static/media/CalculatorApp.12ad5216.png",
+  "static/css/main.132a02ff.chunk.css.map": "/portfolio-site/static/css/main.132a02ff.chunk.css.map",
+  "index.html": "/portfolio-site/index.html",
+  "precache-manifest.2e10e3e58b54c2e9dcd1f1f4b00482e6.js": "/portfolio-site/precache-manifest.2e10e3e58b54c2e9dcd1f1f4b00482e6.js",
+  "service-worker.js": "/portfolio-site/service-worker.js"
 }
