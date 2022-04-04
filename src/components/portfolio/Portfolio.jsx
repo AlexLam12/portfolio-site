@@ -9,14 +9,14 @@ const portfolioData = [
     id:1,
     image: IMG2,
     title: 'Game Sync',
-    discription: "This App is a full-stack game library app where you can cross reference to games in your library with your friend’s games to find a game you all have in common.",
+    discription: "This app is a full-stack game library app where a player can cross reference games in their library with games in a friend’s or contact's library to find common gaming apps amongst both players.",
     github:'https://github.com/AlexLam12/GameSync'
   },
   {
     id:2,
     image: IMG1,
     title: 'Pitch Project',
-    discription: "This App is a frontend app use as an artist management tool for an open mic night where you can add artists to a lineup and each artist can be select to be displayed on a separate screen.",
+    discription: "This frontend app is an artist management tool for open mic night. Users can add artists to a lineup and admin users can add, edit, and delete altists from the lineup.",
     github:'https://github.com/AlexLam12/pitchmeeting'
   },
   {

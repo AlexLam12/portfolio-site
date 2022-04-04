@@ -41,7 +41,13 @@ const About = () => {
           </div>
           
           <p>
-          I am a natural problem solver who love to create anything. From aircraft mechanic to software developer, the similarities are more than you would expect from troubleshooting to the attention to detailed required. Software development is something that I find very exciting. My lifetime goal is to continue learning and take my skills to the next level.
+          I’m a professional software developer specialized in frontend and backend web development currently living in Nashville, 
+          Tennessee. Creative, ambitious, and a natural problem solver, my fields of competence include SQL, JavaScript, React.js, C#
+          and .NET. I’m interested in learning more about backend development, data flow, and open to all opportunities to grow as a software 
+          developer.
+          <br></br>
+          I have a background routed in aviation where I worked as a lead mechanic in the United States Navy for 5 years then went to college 
+          at Embry-Riddle Aeronautical University and graduated with a Bachelor of Science in Aeronautics.
           </p>
           <a href= "#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
